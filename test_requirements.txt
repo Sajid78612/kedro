@@ -4,7 +4,7 @@ bandit>=1.6.2, <2.0
 behave==1.2.6
 biopython~=1.73
 blacken-docs==1.9.2
-black~=22.0
+black~=22.12
 compress-pickle[lz4]~=1.2.0
 coverage[toml]
 dask[complete]~=2021.10  # pinned by Snyk to avoid a vulnerability
