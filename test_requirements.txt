@@ -3,7 +3,7 @@ adlfs>=2021.7.1, <=2022.2
 bandit>=1.6.2, <2.0
 behave==1.2.6
 biopython~=1.73
-blacken-docs==1.9.2
+blacken-docs==1.13.0
 black~=22.0
 compress-pickle[lz4]~=1.2.0
 coverage[toml]
