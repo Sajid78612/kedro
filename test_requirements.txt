@@ -11,7 +11,7 @@ dask[complete]~=2021.10  # pinned by Snyk to avoid a vulnerability
 delta-spark~=1.2.1  # 1.2.0 has a bug that breaks some of our tests: https://github.com/delta-io/delta/issues/1070
 dill~=0.3.1
 filelock>=3.4.0, <4.0
-gcsfs>=2021.4, <=2022.1
+gcsfs>=2021.4, <2023.2
 geopandas>=0.6.0, <1.0
 hdfs>=2.5.8, <3.0
 holoviews~=1.13.0
